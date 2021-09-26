@@ -12,7 +12,7 @@
 
 <!-- INFO -->
 
-**Abot me**
+**About me**
 
 <!-- IMG -->
 
